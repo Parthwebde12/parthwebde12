@@ -20,13 +20,6 @@ Database: MongoDB (CRUD, Mongoose)
 
 Tools & Concepts: Git & GitHub, JSON, API Integration, Deployment basics (Netlify, Vercel, Render), Problem Solving
 
-📂 Highlighted Projects
-1️⃣ My Portfolio Website – Showcasing my skills, learning journey, and projects in one place.
-2️⃣ 3 Small DOM Projects – Mini projects to practice JavaScript, events, and dynamic UI changes.
-3️⃣ Employee Management App – A CRUD-based project to manage employee records efficiently.
-4️⃣ Movie Search App (API-based) – Fetching and displaying movie data from an external API.
-5️⃣ Jobs Portal Project – A larger-scale project simulating a job listing and hiring platform.
-6️⃣ Several MERN Projects – Building and experimenting with different aspects of the MERN stack to gain practical, end-to-end experience.
 
 🌱 What I’m Working On
 
