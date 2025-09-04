@@ -16,11 +16,8 @@ This is where I share my projects, learning journey, and experiments with differ
   - 🔄 React (in progress)  
   - 🔜 MERN Stack (MongoDB, Express, React, Node.js)  
 - 🧑‍💻 Exploring **DSA with C++** and backend with **Java**  
-- 🎯 Future Goals:  
-  - Build strong **DSA foundations**  
-  - Develop **real-world web projects**  
-  - Contribute to **Open Source**  
-- ⚡ Fun Fact: I often re-build the same project with a new tech stack just to learn better!  
+- 🎯 Future Goals: GATE Prep • Strong DSA • Real-world projects • Open Source  
+- ⚡ Fun Fact: I often re-build the same project in a new stack to learn better!  
 
 ---
 
@@ -63,7 +60,9 @@ This is where I share my projects, learning journey, and experiments with differ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50" height="50" />
 </p>  
+
 ---
+
 ## 📊 GitHub Stats  
 
 ![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthwebde12&show_icons=true&theme=tokyonight)  
@@ -74,14 +73,8 @@ This is where I share my projects, learning journey, and experiments with differ
 
 ---
 
-## 🌍 Connect With Me  
-📧 **Email:** [parthwakodikar4@gmail.com](parthwakodikar4@gmail.com)  
 
-🌐 **Portfolio:** [https://parthwebde12.github.io/Portfoliosite/](https://parthwebde12.github.io/Portfoliosite/)  
-
-💼 **LinkedIn:** [www.linkedin.com/in/parth-w-3b15b4317](www.linkedin.com/in/parth-w-3b15b4317) 
-
----
 
 ⭐ **Thanks for visiting my profile!**  
 If you like my work, don’t forget to **star my repositories** 🌟 and connect with me 🚀
+
