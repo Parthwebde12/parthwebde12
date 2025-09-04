@@ -9,7 +9,7 @@ This is where I share my projects, learning journey, and experiments with differ
 ---
 
 ## 🌟 About Me  
-- 🎓 Computer Science student on a journey to become a **skilled Web Developer**  
+- 🎓 E&TC student on a journey to become a **skilled Web Developer**  
 - 💻 Currently focusing on:  
   - ✅ HTML, CSS, Tailwind, Bootstrap  
   - ✅ JavaScript (ES6+)  
