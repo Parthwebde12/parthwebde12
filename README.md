@@ -1,35 +1,96 @@
-Hi, I’m a passionate learner diving deep into the MERN Stack (MongoDB, Express.js, React, Node.js) and building real-world projects to sharpen my development skills. I enjoy creating interactive, user-friendly applications while strengthening my fundamentals in JavaScript, React, and backend development.
+# 👋 Hello, World! I'm Parth Wakodikar  
 
-💻 Currently, I’m focusing on:
+🚀 **Aspiring Full Stack Developer | Tech Explorer | Problem Solver | Lifelong Learner**  
 
-Full-stack development with MERN
+Welcome to my GitHub!  
+I’m passionate about **web development, data analytics, and building real-world projects** that make an impact.  
+This is my little corner on the internet where I document my learning journey, experiments, and creations.  
 
-Hands-on practice with frontend DOM manipulation
+---
 
-API integration & data handling
+## 🌟 About Me  
+- 🎓 I’m currently pursuing my studies in Computer Science.  
+- 💻 My main focus right now is on **Web Development (Frontend → Full Stack)**.  
+- 📖 Learning path:  
+  - ✅ **HTML, CSS, Tailwind, Bootstrap**  
+  - ✅ **JavaScript (ES6+)**  
+  - 🔄 **React (in progress)**  
+  - 🔜 **MERN Stack (MongoDB, Express, React, Node.js)**  
+  - 🔜 **Java Full Stack Development (Spring Boot, Hibernate)**  
+- 🧑‍💻 Exploring **Data Analytics with Python** on the side.  
+- 🎯 Future Goals:  
+  - Crack **GATE Exam**  
+  - Master **Full Stack Development**  
+  - Contribute to **Open Source Projects**  
+  - Build my own **large-scale SaaS/Web projects**.  
+- ⚡ Fun Fact: I love switching between different tech stacks just to see how things work under the hood!  
 
-Building scalable applications with proper structure
+---
 
-🛠️ Skills:
+## 🛠️ Skills & Tools  
+### 💻 Languages  
+- **C++** (for DSA & problem solving)  
+- **Java** (for backend development)  
+- **Python** (for data analytics & scripting)  
+- **JavaScript (ES6+)** (for web development)  
 
-Frontend: HTML, CSS, JavaScript, React.js (Hooks, Components, State Management), DOM Manipulation
+### 🎨 Frontend  
+- HTML5, CSS3, Bootstrap, Tailwind CSS  
+- React.js (learning)  
 
-Backend: Node.js, Express.js, REST API development
+### ⚙️ Backend (in progress)  
+- Node.js, Express.js  
+- Java Spring Boot  
 
-Database: MongoDB (CRUD, Mongoose)
+### 🗄️ Databases  
+- MySQL, MongoDB (learning)  
 
-Tools & Concepts: Git & GitHub, JSON, API Integration, Deployment basics (Netlify, Vercel, Render), Problem Solving
+### 🔧 Tools & Platforms  
+- Git & GitHub  
+- VS Code, IntelliJ, PyCharm  
+- Netlify, Vercel, GitHub Pages  
+- Postman  
 
+---
 
-🌱 What I’m Working On
+## 📂 Featured Projects  
+Here are some projects I’m working on (or planning):  
 
-Improving React skills with hooks, state management, and reusable components
+1. 🌐 **Portfolio Website**  
+   - My personal developer portfolio to showcase my skills & projects.  
+   - 🔗 [Live Demo](#) | [Repository](#)  
 
-Strengthening Node.js & Express backend knowledge
+2. 🔖 **Bookmark App**  
+   - A simple app using **JavaScript + DOM** to save and manage bookmarks.  
+   - 🔗 [Live Demo](#) | [Repository](#)  
 
-Learning how to design REST APIs
+3. 📊 **Data Analytics Project**  
+   - Using **Python (Pandas, Matplotlib)** for analyzing datasets.  
+   - 🔗 [Live Demo](#) | [Repository](#)  
 
-Exploring authentication, authorization, and deployment strategies
+4. 🧮 **Java Calculator**  
+   - A beginner-friendly project to strengthen **Java basics**.  
+   - 🔗 [Live Demo](#) | [Repository](#)  
 
-📫 Let’s Connect
-Always open to collaboration, feedback, and new learning opportunities!
+*(More projects coming soon as I learn React, MERN, and Java Full Stack!)*  
+
+---
+
+## 📊 GitHub Stats  
+![Parth's GitHub Stats]()  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌍 Connect With Me  
+- 💼 [LinkedIn](#)  
+- 🐦 [Twitter](#)  
+- 🌐 [Portfolio Website](#) *(coming soon!)*  
+- 📧 Reach me at: **yourmail@example.com**  
+
+---
+
+⭐ **Thanks for stopping by!**  
+If you like my work, feel free to **star my repositories**
+
