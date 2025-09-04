@@ -35,7 +35,6 @@ This is where I share my projects, learning journey, and experiments with differ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
 </p>  
 
@@ -69,7 +68,8 @@ This is where I share my projects, learning journey, and experiments with differ
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthwebde12&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parthwebde12&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=parthwebde12&theme=tokyonight)
+  
 
 ---
 
