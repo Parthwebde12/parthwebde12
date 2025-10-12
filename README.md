@@ -72,53 +72,19 @@
 
 </div>
 
+
 ---
-## ⚡ Tech Stack & Name in Icons
-
-<div align="center">
-
-  <!-- Name as Icons: P A R T H  W A K O D I K A R -->
-  <!-- Using tech icons to represent letters visually -->
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" title="P"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" title="A"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" title="R"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" title="T"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50" title="H"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" title="W"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50" title="A"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" title="K"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openssl/openssl-original.svg" height="50" title="O"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50" title="D"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="50" title="I"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" title="K"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50" title="A"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" title="R"/>
-
-</div>
----
-
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00B8D4&center=true&vCenter=true&width=600&lines=Hey+there!+👋;Welcome+to+Parth's+GitHub+💻;Let's+build+something+awesome!+🚀" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=parthwebde12&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="160" />
-
-  <!-- Top Languages -->
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthwebde12&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </div>
 
 <div align="center">
-  <!-- Contribution / Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthwebde12&theme=react-dark&hide_border=true" width="95%" />
 </div>
-
 ---
 
 ⭐ **Thanks for visiting my profile!**  
