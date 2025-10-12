@@ -85,6 +85,10 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthwebde12&theme=react-dark&hide_border=true" width="95%" />
 </div>
+
+
+
+
 ---
 
 ⭐ **Thanks for visiting my profile!**  
