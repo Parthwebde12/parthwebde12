@@ -79,7 +79,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parthwebde12&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="160" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthwebde12&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://camo.githubusercontent.com/a9f4344a17cb8e5a9119d3038f217f7adfce434c1013f2144f855cbc12312e33/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d706172746877656264653132266c61796f75743d636f6d70616374267468656d653d7261646963616c" height="160" />
 </div>
 
 <div align="center">
