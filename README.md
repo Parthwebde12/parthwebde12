@@ -24,8 +24,7 @@
   - ✅ HTML, CSS, Tailwind, Bootstrap  
   - ✅ JavaScript (ES6+)  
   - 🔄 React (in progress)  
-  - 🔜 MERN Stack (MongoDB, Express, React, Node.js)  
-- 🧑‍💻 Exploring **DSA with C++** and backend with **Java**  
+  - 🔜 MERN Stack (MongoDB, Express, React, Node.js)
 - 🎯 Future Goals: GATE Prep • Strong DSA • Real-world projects • Open Source  
 - ⚡ Fun Fact: I often re-build the same project in a new stack to learn better!  
 
