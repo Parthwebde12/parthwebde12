@@ -1,5 +1,5 @@
 <!-- 💫 Hello World Section -->
-<!-- 👋 Hello / Name Section -->
+
 <h1 align="center">
   👋 Hello, I'm <span style="color:#00BFFF;">Parth Wakodikar</span>
 </h1>
