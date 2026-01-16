@@ -60,8 +60,6 @@
 - Portfolio (live) — https://parthwebde12.github.io/Portfoliosite-master/  
   A minimal, responsive portfolio showcasing projects and contact info.
 
-Tip: pin 4–6 repos to your GitHub profile. Want, I can auto-fill a list of top repos from your account.
-
 ---
 
 ## 📊 GitHub & activity
@@ -104,4 +102,3 @@ Tip: pin 4–6 repos to your GitHub profile. Want, I can auto-fill a list of top
 
 > Minimal. Modern. Practical. — Building clear frontends and shipping deployable prototypes.
 
-_Last updated: 2026-01-16_
