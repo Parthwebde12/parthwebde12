@@ -1,51 +1,82 @@
-# Parth Wakodikar
-Electronics & Telecommunication (E&TC) engineering student | MERN FULL STACK DEVELOPER
+<h1 align="center">Hi 👋, I'm Parth Wakodikar</h1>
 
-## 🚀 Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-111827?style=for-the-badge&logo=redux&logoColor=764ABC)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Mongoose](https://img.shields.io/badge/Mongoose-111827?style=for-the-badge&logo=mongoose&logoColor=880000)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Frontend+Focused+Engineer;Actively+Learning+Backend;Exploring+CI%2FCD+%7C+Docker+%7C+AWS" alt="typing intro" />
+</p>
 
-
-## 🚀 About Me
-- Currently focused on frontend development: building responsive, accessible UIs.
-- Exploring backend and cloud deployments to become a well-rounded full-stack developer.
-- Passionate about problem solving, algorithms, and learning new tools.
-
-## 📈 GitHub Stats
-<!-- Two graphs side-by-side, third graph centered below -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=parthwebde12&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthwebde12&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=parthwebde12&theme=noctis_minimus&hide_border=true" alt="Streak stats" />
-    </td>
-  </tr>
-</table>
-
-## 📫 Get in touch
-- Email: parthwakodikar4@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/parth-wakodikar/
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parthwebde12&label=PROFILE+VIEWS&style=for-the-badge&color=0ea5e9" alt="profile views" />
+</p>
 
 ---
-`"Coding is my skill; debugging, my passion.""`
+
+## 👨‍💻 About Me
+- 🎓 Electronics & Telecommunication (E&TC) Engineering Student
+- 💻 Passionate **Full Stack Developer**
+- 🎨 Strong in **Frontend Development**
+- ⚛️ Love building **responsive React & Next.js applications**
+- 🌱 Actively learning **Backend Development & scalable APIs**
+- 🐳 Exploring **Docker & containerization**
+- ⚙️ Learning **CI/CD with GitHub Actions**
+- ☁️ Exploring **AWS deployments**
+- 🧠 Improving **DSA, problem solving & project architecture**
+- 🚀 Goal: Build production-ready full stack applications
+
+---
+
+## ⚡ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,docker,aws,githubactions,git,github,vscode,postman&perline=6" />
+</p>
+
+---
+
+## 📚 Currently Growing In
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,aws,githubactions" />
+</p>
+
+<p align="center">
+  🚀 Strengthening my journey as a <b>Full Stack Developer</b>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=parthwebde12&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthwebde12&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=parthwebde12&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+- ✅ Build production-ready MERN projects
+- ✅ Learn secure authentication systems
+- ✅ Dockerize full-stack apps
+- ✅ Setup CI/CD pipelines
+- ✅ Deploy projects on AWS
+- ✅ Improve backend architecture skills
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/parth-wakodikar/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+  <a href="mailto:parthwakodikar4@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  </a>
+  <a href="https://github.com/parthwebde12">
+    <img src="https://skillicons.dev/icons?i=github" width="50" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">💡 Full Stack Developer focused on learning, building, and growing every day 🚀</h3>
