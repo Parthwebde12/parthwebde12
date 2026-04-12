@@ -26,7 +26,7 @@
 
 ## ⚡ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,docker,aws,githubactions,git,github,vscode,postman&perline=6" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,redis,docker,kubernetes,aws,nginx,linux,bash,git,github,githubactions,vscode,postman,npm,vercel&perline=7" />
 </p>
 
 ---
@@ -44,13 +44,14 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=parthwebde12&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthwebde12&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parthwebde12&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=parthwebde12&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=parthwebde12&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthwebde12&theme=tokyonight" />
 </p>
+
 
 ---
 
