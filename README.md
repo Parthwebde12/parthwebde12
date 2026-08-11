@@ -1,154 +1,166 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:38BDF8&height=200&section=header&text=Parth%20Wakodikar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20TypeScript&descAlignY=55&descSize=18" alt="header banner" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+(MERN);Building+Secure%2C+Scalable+REST+APIs;JWT+%7C+OAuth2+%7C+RBAC+%7C+WebSockets;Learning+Docker+%2B+CI%2FCD+%2B+AWS;System+Design+%26+Clean+Architecture+Enthusiast" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=160&section=header&text=%3E_%20parth.wakodikar&fontSize=38&fontColor=39FF14&fontAlignY=45&desc=full-stack%20developer%20//%20MERN%20+%20TypeScript&descAlignY=68&descSize=14&descColor=00CC00&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parthwebde12&label=PROFILE+VIEWS&style=for-the-badge&color=0ea5e9" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Parthwebde12?label=Followers&style=for-the-badge&color=38BDF8" alt="followers" />
-  <img src="https://img.shields.io/badge/STATUS-Actively%20Building-22c55e?style=for-the-badge" alt="status" />
-</p>
+```
+$ whoami
+> Full Stack Developer building secure, scalable systems
+$ location
+> Pune, India
+$ status
+> actively building // open to collab
+```
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/parth-wakodikar/"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
-  <a href="mailto:parthwakodikar4@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" /></a>
-  <a href="https://github.com/Parthwebde12"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
-</p>
+<img src="https://img.shields.io/badge/BUILD-passing-39FF14?style=flat-square&labelColor=000000"/>
+<img src="https://komarev.com/ghpvc/?username=parthwebde12&label=VIEWS&style=flat-square&color=000000&labelColor=000000"/>
+<img src="https://img.shields.io/github/followers/Parthwebde12?label=FOLLOWERS&style=flat-square&color=000000&labelColor=000000"/>
 
----
+<a href="https://www.linkedin.com/in/parth-wakodikar/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=39FF14"/></a>
+<a href="mailto:parthwakodikar4@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=39FF14"/></a>
+<a href="https://github.com/Parthwebde12"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=39FF14"/></a>
 
-## 👨‍💻 About Me
+</div>
 
-<table>
-<tr>
-<td width="60%">
+<br/>
 
-- 🎓 Electronics & Telecommunication (E&TC) Engineering student who fell in love with **building products**
-- 🛠️ **Full Stack Developer** working across the entire **MERN + TypeScript** stack
-- 🔐 Comfortable implementing **JWT, OAuth 2.0 & Role-Based Access Control** for secure auth flows
-- 🔌 Building **RESTful APIs**, real-time features with **WebSockets**, and server-rendered apps with **EJS / SSR**
-- 🗄️ Designing efficient **MongoDB schemas** with **Mongoose** and optimizing queries for performance
-- 🐳 Learning to ship with **Docker**, automate with **CI/CD pipelines**, and deploy on **AWS**
-- 🌐 Sharpening **Nginx, reverse proxies, DNS, HTTPS/SSL & CORS** — the networking side of backend engineering
-- 🏗️ Genuinely curious about **System Design & Software Architecture**, not just "making it work"
-- 🚀 Goal: ship production-grade, secure, well-architected full stack applications
+<details open>
+<summary><b>🧠 // about</b></summary>
+<br/>
 
-</td>
-<td width="40%">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
-</td>
-</tr>
-</table>
+- 🎓 Electronics & Telecommunication Engineering student, based in Pune, India
+- 💻 Full Stack Developer working across **MERN + TypeScript**
+- 🔐 Ship secure auth flows with **JWT, OAuth 2.0 & RBAC**
+- 🔌 Build **REST APIs** and real-time features with **WebSockets**
+- 🐳 Learning **Docker, Kubernetes, CI/CD & AWS** to deploy production-grade systems
+- 🏗️ Deep interest in **System Design & scalable software architecture**
 
----
+</details>
 
-## ⚡ Tech Stack
+<details open>
+<summary><b>⚙️ // tech stack</b></summary>
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,docker,aws,nginx,linux,git,github,githubactions,vscode,postman,npm&perline=9" />
-</p>
+**Frontend**
+<br/>
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=39FF14)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=39FF14)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39FF14)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=39FF14)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth%202.0-3C3C3D?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/RBAC-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/CORS-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTTPS%2FSSL-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System%20Design-4B5563?style=for-the-badge" />
-</p>
+**Backend**
+<br/>
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=39FF14)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=39FF14)
+![EJS](https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=ejs&logoColor=39FF14)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logoColor=39FF14)
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socketdotio&logoColor=39FF14)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=39FF14)
 
----
+**Database**
+<br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=39FF14)
+![Mongoose](https://img.shields.io/badge/Mongoose-000000?style=for-the-badge&logo=mongoose&logoColor=39FF14)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=39FF14)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=39FF14)
+![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=39FF14)
 
-## 🌱 Currently Strengthening
+**DevOps & Infra**
+<br/>
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=39FF14)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=39FF14)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=39FF14)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=githubactions&logoColor=39FF14)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,githubactions,kubernetes,linux" />
-</p>
+**Tools**
+<br/>
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=39FF14)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=39FF14)
+![npm](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=39FF14)
 
-<p align="center">🚀 Going deeper into <b>DevOps, Cloud Architecture & Production-Grade Backend Systems</b></p>
+</details>
 
----
+<details>
+<summary><b>🌱 // currently learning</b></summary>
+<br/>
 
-## 🚀 Featured Projects
+![System Design](https://img.shields.io/badge/System%20Design-000000?style=for-the-badge&logoColor=39FF14)
+![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-000000?style=for-the-badge&logoColor=39FF14)
+![DevOps](https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logoColor=39FF14)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=39FF14)
+![Scalable Architecture](https://img.shields.io/badge/Scalable%20Architecture-000000?style=for-the-badge&logoColor=39FF14)
 
-<table>
-<tr>
-  <td width="50%">
-    <a href="https://github.com/Parthwebde12/ContribStart"><b>🌱 ContribStart</b></a><br/>
-    A full-stack MERN app that helps developers discover beginner-friendly open-source issues, learn Git/GitHub workflows, and track their contribution journey.<br/>
-    <img src="https://img.shields.io/badge/MERN-Stack-38BDF8?style=flat-square" />
-  </td>
-  <td width="50%">
-    <a href="https://github.com/Parthwebde12/EduFlow"><b>📚 EduFlow</b></a><br/>
-    A student productivity platform for managing notes, resources, and tasks — built with React, Node.js, Express & MongoDB. 🏆 Built for an Open Source Hackathon.<br/>
-    <img src="https://img.shields.io/badge/React%20%7C%20Node%20%7C%20Express%20%7C%20MongoDB-22c55e?style=flat-square" />
-  </td>
-</tr>
-<tr>
-  <td width="50%">
-    <a href="https://github.com/Parthwebde12/shopifyclone"><b>🛒 Shopify Clone</b></a><br/>
-    A frontend e-commerce replica with product listings (Men/Women/Kids/Electronics) and a working cart system.<br/>
-    <img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JS-f59e0b?style=flat-square" />
-  </td>
-  <td width="50%">
-    <a href="https://github.com/Parthwebde12/Portfoliosite-master"><b>💼 Portfolio Site</b></a><br/>
-    A modern, responsive personal portfolio showcasing skills, projects, certifications & education.<br/>
-    <img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20TailwindCSS-06b6d4?style=flat-square" />
-  </td>
-</tr>
-</table>
+</details>
 
-<p align="center"><i>📌 Check out <a href="https://github.com/Parthwebde12?tab=repositories">all repositories</a> for more</i></p>
+<details open>
+<summary><b>🚀 // projects</b></summary>
+<br/>
 
----
+| Repo | Stack | Description |
+|---|---|---|
+| [**ContribStart**](https://github.com/Parthwebde12/ContribStart) | MERN | Helps developers discover beginner-friendly open-source issues & track their contribution journey |
+| [**EduFlow**](https://github.com/Parthwebde12/EduFlow) 🏆 | React · Node · Express · MongoDB | Student productivity platform for notes, resources & tasks — built for an Open Source Hackathon |
+| [**Shopify Clone**](https://github.com/Parthwebde12/shopifyclone) | HTML · CSS · JS | Frontend e-commerce replica with product listings and a working cart |
+| [**robot-arm-v2**](https://github.com/Parthwebde12/robot-arm-v2) | React Native | Robotic arm controller app |
+| [**Portfolio Site**](https://github.com/Parthwebde12/Portfoliosite-master) | HTML · CSS · Tailwind | Personal portfolio showcasing skills, projects & education |
 
-## 🏆 GitHub Trophies
+<div align="center"><i>📌 <a href="https://github.com/Parthwebde12?tab=repositories">view all repositories →</a></i></div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parthwebde12&theme=tokyonight&no-frame=true&row=1&column=6" alt="github trophies" width="100%" />
-</p>
+</details>
 
----
+<details open>
+<summary><b>📊 // github metrics</b></summary>
+<br/>
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parthwebde12&layout=compact&theme=tokyonight" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=parthwebde12&theme=tokyonight&hide_border=true" />
-</p>
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=parthwebde12&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=ffffff"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=parthwebde12&theme=highcontrast&hide_border=true&background=000000&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14"/>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=parthwebde12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
+<img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=parthwebde12&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=000000&title_color=39FF14&text_color=ffffff"/>
 
----
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=parthwebde12&theme=react-dark&bg_color=000000&color=39FF14&line=39FF14&point=ffffff&hide_border=true"/>
 
-## 🎯 2026 Goals
+<img width="100%" src="https://ghchart.rshah.org/39FF14/parthwebde12" alt="contribution graph"/>
 
-| Goal | Focus Area |
-|---|---|
-| ✅ | Build production-ready MERN + TypeScript projects |
-| ✅ | Master secure auth — JWT, OAuth 2.0 & RBAC |
-| 🔄 | Dockerize and deploy full-stack apps end-to-end |
-| 🔄 | Set up real CI/CD pipelines on GitHub Actions |
-| 🔄 | Deploy & manage infrastructure on AWS with Nginx |
-| 🔄 | Strengthen System Design & scalable backend architecture |
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=parthwebde12&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=ffffff&layout=compact" alt="wakatime"/>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/Parthwebde12/Parthwebde12/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph"/>
 
-## 🌐 Connect With Me
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/parth-wakodikar/"><img src="https://skillicons.dev/icons?i=linkedin" width="50" /></a>
-  <a href="mailto:parthwakodikar4@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" /></a>
-  <a href="https://github.com/Parthwebde12"><img src="https://skillicons.dev/icons?i=github" width="50" /></a>
-</p>
 
-<h3 align="center">💡 Full Stack Developer focused on building secure, scalable systems — one commit at a time 🚀</h3>
+
+</details>
+
+<details>
+<summary><b>🎯 // 2026 roadmap</b></summary>
+<br/>
+
+- [x] Build production-ready MERN + TypeScript projects
+- [x] Master secure auth — JWT, OAuth 2.0 & RBAC
+- [ ] Dockerize and deploy full-stack apps end-to-end
+- [ ] Set up real CI/CD pipelines on GitHub Actions
+- [ ] Deploy & manage infrastructure on AWS with Nginx
+- [ ] Strengthen System Design & scalable backend architecture
+
+</details>
+
+<br/>
+
+<div align="center">
+
+```
+$ echo "let's build something secure & scalable"
+```
+
+<a href="https://www.linkedin.com/in/parth-wakodikar/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=39FF14"/></a>
+<a href="mailto:parthwakodikar4@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=39FF14"/></a>
+<a href="https://github.com/Parthwebde12"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=39FF14"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=80&section=footer" width="100%"/>
+
+</div>
