@@ -1,113 +1,140 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B3D0B,50:39FF14,100:0a0a0a&height=230&section=header&text=PARTH%20WAKODIKAR&fontSize=44&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20//%20MERN%20%2B%20TYPESCRIPT&descAlignY=58&descSize=17&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6C63FF,100:00D9FF&height=220&section=header&text=Parth%20Wakodikar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Generative%20AI%20Engineer%20%7C%20Backend%20%7C%20Full%20Stack&descAlignY=55&descSize=16&descColor=e0e0ff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Building+secure%2C+scalable+web+apps;MERN+%2B+TypeScript+developer;Learning+Docker+%2F+Kubernetes+%2F+AWS;Open+to+collab+%26+open-source" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+with+LLMs+%2B+RAG;Vector+Search+%2F+Embeddings+%2F+Agents;MERN+%2B+TypeScript+backend+engineer;Open+to+collab+%26+open+source" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/parth-wakodikar/"><img src="https://img.shields.io/badge/LinkedIn-0B3D0B?style=for-the-badge&logo=linkedin&logoColor=39FF14"/></a>
-<a href="mailto:parthwakodikar4@gmail.com"><img src="https://img.shields.io/badge/Email-0B3D0B?style=for-the-badge&logo=gmail&logoColor=39FF14"/></a>
-<a href="https://github.com/Parthwebde12"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=39FF14"/></a>
-<a href="https://leetcode.com/u/Parthwebde12/"><img src="https://img.shields.io/badge/LeetCode-0B3D0B?style=for-the-badge&logo=LeetCode&logoColor=FFA116"/></a>
-<img src="https://komarev.com/ghpvc/?username=parthwebde12&label=VISITORS&style=for-the-badge&color=0B3D0B&labelColor=0a0a0a"/>
+<a href="https://www.linkedin.com/in/parth-wakodikar/"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=00D9FF"/></a>
+<a href="mailto:parthwakodikar4@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=flat-square&logo=gmail&logoColor=00D9FF"/></a>
+<a href="https://github.com/Parthwebde12"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=flat-square&logo=github&logoColor=00D9FF"/></a>
+<a href="https://leetcode.com/u/Parthwebde12/"><img src="https://img.shields.io/badge/LeetCode-1a1a2e?style=flat-square&logo=leetcode&logoColor=FFA116"/></a>
+<a href="https://parthwebde12.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=flat-square&logo=vercel&logoColor=00D9FF"/></a>
 
-<br/><br/>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=parthwebde12&label=Profile+Views&style=flat-square&color=6C63FF"/>
+
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D0B,100:39FF14&height=3" width="100%"/>
+## `01` &nbsp;About
 
-## 👋 About Me
+```yaml
+role: Generative AI Engineer | Backend Engineer | Full Stack Engineer
+education: B.E. Electronics & Telecommunication Engineering
+location: Pune, India
+focus: LLM Applications → RAG Pipelines → Backend Systems
+```
 
-- 🎓 Electronics & Telecommunication Engineering student, based in **Pune, India**
-- 💻 Full Stack Developer working across the **MERN stack** with **TypeScript**
-- 🔐 Ship secure authentication flows using **JWT, OAuth 2.0 & RBAC**
-- 🔌 Build **REST APIs** and real-time features with **WebSockets**
-- 🐳 Currently leveling up in **Docker, Kubernetes, CI/CD & AWS**
-- 🏗️ Passionate about **System Design** and scalable backend architecture
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D0B,100:39FF14&height=3" width="100%"/>
-
-## 🧰 Tech Stack
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-<img src="https://img.shields.io/badge/JWT-0B3D0B?style=flat-square&logo=jsonwebtokens&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/WebSockets-0B3D0B?style=flat-square&logo=socketdotio&logoColor=39FF14"/>
-
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma" />
-
-**DevOps & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,git,githubactions,postman,vscode,linux" />
+I build **LLM-powered applications** — RAG pipelines, vector search, and AI agents — backed by solid backend engineering: secure auth (JWT/OAuth/RBAC), REST APIs, and real-time systems with WebSockets.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D0B,100:39FF14&height=3" width="100%"/>
+## `02` &nbsp;Stack
 
-## 🚀 Featured Projects
+<table width="100%">
+<tr><td>
 
-<table>
-<tr>
-<td width="50%">
+**🧠 Generative AI**
+<br/><br/>
+<img src="https://img.shields.io/badge/LLM_APIs-black?style=for-the-badge&logo=openai&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/RAG-black?style=for-the-badge&logo=databricks&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Vector_Embeddings-black?style=for-the-badge&logo=numpy&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/pgvector-black?style=for-the-badge&logo=postgresql&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Vector_DBs-black?style=for-the-badge&logo=pinecone&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-black?style=for-the-badge&logo=googlegemini&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/AI_Agents-black?style=for-the-badge&logo=langchain&logoColor=00D9FF"/>
 
-### [ContribStart](https://github.com/Parthwebde12/ContribStart)
-`MERN`
-<br/>
-Helps developers discover beginner-friendly open-source issues & track their contribution journey.
+</td></tr>
+<tr><td>
 
-</td>
-<td width="50%">
+**⚡ Languages**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=ts,js,py,java&theme=dark" />
 
-### [EduFlow](https://github.com/Parthwebde12/EduFlow) 🏆
-`React` `Node` `Express` `MongoDB`
-<br/>
-Student productivity platform for notes, resources & tasks — built for an Open Source Hackathon.
+</td></tr>
+<tr><td>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+**🎨 Frontend**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
 
-### [Shopify Clone](https://github.com/Parthwebde12/shopifyclone)
-`HTML` `CSS` `JS`
-<br/>
-Frontend e-commerce replica with product listings and a working cart.
+</td></tr>
+<tr><td>
 
-</td>
-<td width="50%">
+**⚙️ Backend**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,mysql&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/OAuth_2.0-black?style=for-the-badge&logo=auth0&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-black?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 
-### [robot-arm-v2](https://github.com/Parthwebde12/robot-arm-v2)
-`React Native`
-<br/>
-Robotic arm controller app.
+</td></tr>
+<tr><td>
 
-</td>
-</tr>
+**☁️ DevOps & Infra**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,githubactions,git,linux&theme=dark" />
+
+</td></tr>
 </table>
 
-<div align="center"><i>📌 <a href="https://github.com/Parthwebde12?tab=repositories">view all repositories →</a></i></div>
+<br/>
+
+## `03` &nbsp;Featured Work
+
+<details open>
+<summary><b>🧠 ChatWithDocs</b> — RAG document Q&A app</summary>
+<br/>
+
+RAG-based application that lets users query their own documents using LLM APIs, vector embeddings, and pgvector.
+
+`Next.js` `TypeScript` `Supabase` `pgvector` `LLM APIs`
+
+[Repo](https://github.com/Parthwebde12/Chatwithdocs) · [Live](https://chatwithdocs-beta.vercel.app/)
+</details>
+
+<details>
+<summary><b>🏆 EduFlow</b> — Full-stack student productivity platform</summary>
+<br/>
+
+Notes, resources & task management for students — built for an Open Source Hackathon.
+
+`React` `Node.js` `Express` `MongoDB` `JWT` `Multer` `Cloudinary`
+
+[Repo](https://github.com/Parthwebde12/EduFlow)
+</details>
+
+<details>
+<summary><b>ContribStart</b> — Open-source contribution discovery platform</summary>
+<br/>
+
+Helps developers find beginner-friendly open-source issues and track their contribution journey.
+
+`MERN`
+
+[Repo](https://github.com/Parthwebde12/ContribStart) · [Live](https://contrib-start-drab.vercel.app/)
+</details>
+
+<details>
+<summary><b>GitHub Profile CLI</b> — CLI tool for GitHub profile data</summary>
+<br/>
+
+Command-line tool for working with GitHub profile information.
+
+`CLI`
+
+[Repo](https://github.com/Parthwebdev12/github-profile-cli)
+</details>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D0B,100:39FF14&height=3" width="100%"/>
+## `04` &nbsp;GitHub — Top Languages
 
-## 📊 GitHub Stats
+<div align="center">
 
 <div align="center">
 
@@ -120,26 +147,35 @@ Robotic arm controller app.
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D0B,100:39FF14&height=3" width="100%"/>
-
-## 🧩 LeetCode Stats
-
-<div align="center">
-
-<img width="60%" src="https://leetcard.jacoblin.cool/Parthwebde12?theme=dark&font=Fira%20Code"/>
+<br/><br/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D0B,100:39FF14&height=3" width="100%"/>
+## `05` &nbsp;LeetCode
 
-## 🎯 2026 Roadmap
+<div align="center">
+<img width="55%" src="https://leetcard.jacoblin.cool/Parthwebde12?theme=dark"/>
+</div>
 
-- [x] Build production-ready MERN + TypeScript projects
+<br/>
+
+## `06` &nbsp;Open Source & Achievements
+
+- Open Source Contributor — **GirlScript Summer of Code**
+- **Hacktoberfest** participant
+- **Google Summer of Code** proposal submissions
+- **Smart India Hackathon** participant
+- **ISRO BAH** participant
+
+<br/>
+
+## `07` &nbsp;2026 Roadmap
+
+- [x] Ship production-ready RAG / LLM-powered applications
 - [x] Master secure auth — JWT, OAuth 2.0 & RBAC
+- [ ] Go deeper on vector databases & AI agent tool-calling
 - [ ] Dockerize and deploy full-stack apps end-to-end
 - [ ] Set up real CI/CD pipelines on GitHub Actions
 - [ ] Deploy & manage infrastructure on AWS with Nginx
@@ -149,12 +185,12 @@ Robotic arm controller app.
 
 <div align="center">
 
-### Let's build something secure & scalable 🚀
+**Let's build something intelligent, secure & scalable**
 
-<a href="https://www.linkedin.com/in/parth-wakodikar/"><img src="https://img.shields.io/badge/LinkedIn-0B3D0B?style=for-the-badge&logo=linkedin&logoColor=39FF14"/></a>
-<a href="mailto:parthwakodikar4@gmail.com"><img src="https://img.shields.io/badge/Email-0B3D0B?style=for-the-badge&logo=gmail&logoColor=39FF14"/></a>
-<a href="https://github.com/Parthwebde12"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=39FF14"/></a>
+<a href="https://www.linkedin.com/in/parth-wakodikar/"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=00D9FF"/></a>
+<a href="mailto:parthwakodikar4@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=flat-square&logo=gmail&logoColor=00D9FF"/></a>
+<a href="https://github.com/Parthwebde12"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=flat-square&logo=github&logoColor=00D9FF"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:39FF14,100:0B3D0B&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6C63FF,100:1a1a2e&height=100&section=footer" width="100%"/>
 
 </div>
