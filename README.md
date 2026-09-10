@@ -32,55 +32,13 @@ I build **LLM-powered applications** — RAG pipelines, vector search, and AI ag
 
 <br/>
 
-## `02` &nbsp;Stack
+## `02`&nbsp; Stack
 
-<table width="100%">
-<tr><td>
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,react,nextjs,tailwind,html,css,nodejs,express,postgres,mongodb,prisma,mysql,supabase&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,githubactions,git,linux,vercel,netlify,vscode,pnpm,npm,postman,figma,jira&theme=dark" />
 
-**🧠 Generative AI**
-<br/><br/>
-<img src="https://img.shields.io/badge/LLM_APIs-black?style=for-the-badge&logo=openai&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/RAG-black?style=for-the-badge&logo=databricks&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Vector_Embeddings-black?style=for-the-badge&logo=numpy&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/pgvector-black?style=for-the-badge&logo=postgresql&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Vector_DBs-black?style=for-the-badge&logo=pinecone&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-black?style=for-the-badge&logo=googlegemini&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/AI_Agents-black?style=for-the-badge&logo=langchain&logoColor=00D9FF"/>
-
-</td></tr>
-<tr><td>
-
-**⚡ Languages**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=ts,js,py,java&theme=dark" />
-
-</td></tr>
-<tr><td>
-
-**🎨 Frontend**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
-
-</td></tr>
-<tr><td>
-
-**⚙️ Backend**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,mysql&theme=dark" />
-<br/><br/>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/OAuth_2.0-black?style=for-the-badge&logo=auth0&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSockets-black?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-
-</td></tr>
-<tr><td>
-
-**☁️ DevOps & Infra**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,githubactions,git,linux&theme=dark" />
-
-</td></tr>
-</table>
+Also working with **Generative AI** — LLM APIs, RAG, vector embeddings, vector databases, and AI agents.
 
 <br/>
 
