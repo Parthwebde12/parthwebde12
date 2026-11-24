@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <a href="https://portfoliosite-master.vercel.app/">Portfolio</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/parth-wakodikar/">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://hashnode.com/@parthwakodikar12">Hashnode</a> &nbsp;|&nbsp;
-  <a href="https://www.youtube.com/@Parthwakodikar">YouTube</a> &nbsp;|&nbsp;
-  <a href="https://leetcode.com/u/Parthwebde12/">LeetCode</a> &nbsp;|&nbsp;
-  <a href="mailto:parthwakodikar4@gmail.com">Email</a>
+  <a href="https://portfoliosite-master.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161b22?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/parth-wakodikar/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://hashnode.com/@parthwakodikar12"><img src="https://img.shields.io/badge/Hashnode-161b22?style=flat-square&logo=hashnode&logoColor=2962FF" alt="Hashnode" /></a>
+  <a href="https://www.youtube.com/@Parthwakodikar"><img src="https://img.shields.io/badge/YouTube-161b22?style=flat-square&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
+  <a href="https://leetcode.com/u/Parthwebde12/"><img src="https://img.shields.io/badge/LeetCode-161b22?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
+  <a href="mailto:parthwakodikar4@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 </p>
 
 ## About
@@ -59,38 +59,19 @@ I build LLM-powered applications: RAG pipelines, vector search and AI agents, ba
   </tr>
 </table>
 
-## Featured Projects
+## Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>ChatWithDocs</h3>
-      RAG application to chat with your own PDFs and get answers grounded in the source text.<br><br>
-      <img src="https://skillicons.dev/icons?i=nextjs,ts,supabase,postgres,vercel&theme=dark" /><br><br>
-      <a href="https://github.com/Parthwebde12/Chatwithdocs">Repository</a> | <a href="https://chatwithdocs-beta.vercel.app/">Live demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>TaskPilot</h3>
-      AI task manager where an agent plans goals, creates tasks and tracks progress.<br><br>
-      <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,nodejs,express,postgres&theme=dark" /><br><br>
-      <a href="https://github.com/Parthwebde12/Task-Pilot">Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>MediSense-AI</h3>
-      Predicts medicine stock-outs and recommends cross-region redistribution across health centres.<br><br>
-      <img src="https://skillicons.dev/icons?i=ts&theme=dark" /><br><br>
-      <a href="https://github.com/Parthwebde12/MediSense-AI">Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Tandem</h3>
-      Team work-coordination workspace with safe concurrent updates, approvals, roles and audit history.<br><br>
-      <img src="https://skillicons.dev/icons?i=ts,react,nodejs&theme=dark" /><br><br>
-      <a href="https://github.com/Parthwebde12/Tandem">Repository</a> | <a href="https://tandem-gules-chi.vercel.app">Live demo</a>
-    </td>
-  </tr>
-</table>
+- **[ChatWithDocs](https://github.com/Parthwebde12/Chatwithdocs)** — RAG app to chat with your own PDFs and get answers grounded in the source text. [Live demo](https://chatwithdocs-beta.vercel.app/)
+  <br>`Next.js` `TypeScript` `Supabase` `pgvector` `Gemini`
+
+- **[TaskPilot](https://github.com/Parthwebde12/Task-Pilot)** — AI task manager where an agent plans goals, creates tasks and tracks progress.
+  <br>`React 19` `TypeScript` `Vite` `Tailwind CSS` `Node.js` `Express` `PostgreSQL` `Groq` `JWT`
+
+- **[MediSense-AI](https://github.com/Parthwebde12/MediSense-AI)** — Predicts medicine stock-outs and recommends cross-region redistribution across health centres.
+  <br>`TypeScript`
+
+- **[Tandem](https://github.com/Parthwebde12/Tandem)** — Team work-coordination workspace with safe concurrent updates, approvals, roles and audit history. [Live demo](https://tandem-gules-chi.vercel.app)
+  <br>`TypeScript` `Full Stack`
 
 ## GitHub Stats
 
@@ -104,5 +85,5 @@ I build LLM-powered applications: RAG pipelines, vector search and AI agents, ba
 </p>
 
 <p align="center">
-  <a href="mailto:parthwakodikar4@gmail.com">parthwakodikar4@gmail.com</a>
+  <sub>Open to internships and collaborations. Let's build something intelligent, secure and scalable.</sub>
 </p>
